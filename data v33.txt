@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"When you think of extreme sports and high-performance vehicles, Russia may not be the first country that comes to mind ",
+   "photo1":"https://iili.io/JHZK5t1.webp"},
+  {"desc2":"However, hidden in the vast expanse of this remarkable nation lies a unique automotive gem known as the Lada Kalina Russian Extreme. In this article","photo2":"https://iili.io/JHZKRwP.webp"},
+  {"desc3":"we will delve into the world of extreme driving in Russia and explore what makes the Lada Kalina an exceptional choice for those seeking adrenaline-pumping adventures","photo3":"https://iili.io/JHZKu9V.webp"},
+  {"desc4":"The Lada Kalina is a compact car produced by the Russian automaker AvtoVAZ. While it may appear unassuming at first glance, the Kalina Russian Extreme edition is anything but ordinary","photo4":"https://iili.io/JHZKI8Q.webp"},
+  {"desc5":"This variant of the Kalina is specially designed for extreme driving enthusiasts, combining the reliability of a classic Lada with performance enhancements that make it a formidable contender on rugged terrains and challenging environments","photo5":"https://iili.io/JHZKYoF.webp"},
+  {"descd":"Under the hood of the Lada Kalina Russian Extreme, you'll find a potent powerplant that sets it apart from its more pedestrian siblings. This extreme version is often equipped with a turbocharged engine","photod":"https://iili.io/JHZKaMg.webp"}
    ]
  
 }
