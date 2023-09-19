@@ -1,54 +1,60 @@
-{"ads":{
-  
-
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
- 
-
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
-  
-
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-"admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
-  
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
-
-  
-
-
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
-  
-
-},
-  "my_data":[
-  {"desc1":"When you think of extreme sports and high-performance vehicles, Russia may not be the first country that comes to mind ",
-   "photo1":"https://iili.io/JHZK5t1.webp"},
-  {"desc2":"However, hidden in the vast expanse of this remarkable nation lies a unique automotive gem known as the Lada Kalina Russian Extreme. In this article","photo2":"https://iili.io/JHZKRwP.webp"},
-  {"desc3":"we will delve into the world of extreme driving in Russia and explore what makes the Lada Kalina an exceptional choice for those seeking adrenaline-pumping adventures","photo3":"https://iili.io/JHZKu9V.webp"},
-  {"desc4":"The Lada Kalina is a compact car produced by the Russian automaker AvtoVAZ. While it may appear unassuming at first glance, the Kalina Russian Extreme edition is anything but ordinary","photo4":"https://iili.io/JHZKI8Q.webp"},
-  {"desc5":"This variant of the Kalina is specially designed for extreme driving enthusiasts, combining the reliability of a classic Lada with performance enhancements that make it a formidable contender on rugged terrains and challenging environments","photo5":"https://iili.io/JHZKYoF.webp"},
-  {"descd":"Under the hood of the Lada Kalina Russian Extreme, you'll find a potent powerplant that sets it apart from its more pedestrian siblings. This extreme version is often equipped with a turbocharged engine","photod":"https://iili.io/JHZKaMg.webp"}
-   ]
- 
+{
+    "ADS": {
+        "banner_type_1": "yandex",
+        "inter_type_1": "yandex",
+        "native_type_1": "yandex",
+        "reward_type_1": "yandex",
+        "native_or_mrec_1": "native",
+        "ironsource_id": "ironsource_id_value",
+        "unity_id": "unity_id_value",
+        "banner_id_1": "demo-banner-yandex",
+        "interstitial_id_1": "demo-interstitial-yandex",
+        "reward_id_1": "demo-rewarded-yandex",
+        "mrec_id_1": "mrec_id_1_value",
+        "native_id_1": "demo-native-content-yandex",
+        "open_app_id": "demo-appopenad-yandex",
+        "store_link": "demo-native-content-yandex"
+    },
+    "guideData": [
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 1",
+            "text_Content_": "When you think of extreme adventures and thrilling experiences, Russia might not be the first destination that comes to mind. However, there is an intriguing and unexpected element of extreme adventure in Russia, and it involves the Lada Kalina"
+        },
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 2",
+            "text_Content_": "The Lada Kalina is not just an ordinary car; it's a symbol of Russian resilience and ingenuity. In this article, we'll explore how the Lada Kalina has become an integral part of the Russian extreme adventure culture"
+        },
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 3",
+            "text_Content_": "The Lada Kalina is a compact car produced by the Russian automaker AvtoVAZ. Introduced in 2004, it quickly became a popular choice among Russian motorists due to its affordability, reliability, and adaptability"
+        },
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 4",
+            "text_Content_": "It was designed to withstand the harsh Russian climate and rugged terrain, making it an ideal choice for various extreme adventures"
+        },
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 5",
+            "text_Content_": "One of the most exciting aspects of the Lada Kalina is its off-road capabilities. Russia is known for its vast and challenging landscapes, including dense forests, snow-covered mountains, and endless steppes"
+        },
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 6",
+            "text_Content_": "For many Russians, an extreme adventure involves taking their Lada Kalina off the beaten path and exploring these untamed terrains"
+        },
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 7",
+            "text_Content_": "The car's robust build, high ground clearance, and reliable four-wheel-drive system make it well-suited for tackling tough off-road conditions. Whether it's crossing shallow rivers, navigating through deep mud, or climbing steep hills, the Lada Kalina is up for the challenge"
+        },
+        {
+            "image_link": "https://wallpaper.dog/large/20487356.jpg",
+            "title": "Lada Kalina Russian Extreme 8",
+            "text_Content_": "Russia's long and frigid winters create the perfect conditions for an extreme sport known as ice racing. In this adrenaline-pumping activity, Lada Kalina owners modify their cars with studded tires and participate in high-speed races on frozen lakes and rivers"
+        }
+    ]
 }
-   
